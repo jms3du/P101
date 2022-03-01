@@ -45,7 +45,9 @@ Descripción del paso 3 de la instalación
 
 ### 3.n. Step ...n
 
+
 ##4. Resolución de problemas
+
 
 
 ##5. Enlaces de interés
