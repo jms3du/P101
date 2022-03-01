@@ -1,6 +1,6 @@
 # Proyecto base para el módulo Entornos de Desarrollo 2021/22
 
-##1. ¿Para qué es este proyecto?
+## 1. ¿Para qué es este proyecto?
 En este documento describimos las principales características que podemos incluir en un fichero **README.md**, junto a las etiquetas utilizadas para estructurar su contenido.
 
 Los archivos de documentación de proyectos suelen incluir:
@@ -18,7 +18,7 @@ Los archivos de documentación de proyectos suelen incluir:
 
 
 
-##2.  Requisitos de instalación
+## 2.  Requisitos de instalación
 
 La ejecución de este proyecto requiere utilizar un JDK 9 o superior.
 
@@ -27,7 +27,7 @@ La ejecución de este proyecto requiere utilizar un JDK 9 o superior.
 
 
 
-##3. Instalación
+## 3. Instalación
 
 ### 3.1. Step 1
 
@@ -46,11 +46,11 @@ Descripción del paso 3 de la instalación
 ### 3.n. Step ...n
 
 
-##4. Resolución de problemas
+## 4. Resolución de problemas
 
 
 
-##5. Enlaces de interés
+## 5. Enlaces de interés
 
 * [Control de Versiones](https://en.wikipedia.org/wiki/Version_control)
 * [Pro Git](https://git-scm.com/book/en/v2)
